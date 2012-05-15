@@ -9,6 +9,11 @@ To produce following two graphs run actions.sh and actions.R
 ![Alt text](http://i176.photobucket.com/albums/w180/investuotojas/actions.png)  
 ![Alt text](http://i176.photobucket.com/albums/w180/investuotojas/actions_weekdays.png)  
 
+Run new_repos.sh and new_repos.R to produce following graph:  
+![](http://i176.photobucket.com/albums/w180/investuotojas/new_repos.png)  
+
+For forks vs watchers run fork_watch.sh and fork_watch.R:  
+![](http://i176.photobucket.com/albums/w180/investuotojas/fork_watch.png)    
 
 ##Contact
 If you have problems or questions - please contact me at twitter [@dzidorius](twitter.com/dzidorius) or by [mail](https://github.com/kafka399)
