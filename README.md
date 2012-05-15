@@ -1,6 +1,6 @@
 ##Description
 
-The goal of this project is to do data analysis on public GitHub timeline data. 
+The goal of this project is to do data analysis on public GitHub timeline data. Detail description of the analysis can be found at my blog: [www.investuotojas.eu](http://www.investuotojas.eu/2012/05/15/github-data-analysis/) 
 
 ##How to use it
 
