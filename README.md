@@ -3,7 +3,9 @@
 The goal of this project is to do data analysis on public GitHub timeline data. 
 
 ##How to use it
-First of all, download GitHub timeline data from [bigquery: ](https://github.com/blog/1112-data-at-github)
+Download GitHub timeline data from [bigquery](https://github.com/blog/1112-data-at-github) and save it as git.csv
+To produce the graph below run .sh and .R
+![Alt text](http://i176.photobucket.com/albums/w180/investuotojas/actions.png)
 
 
 ##Contact
