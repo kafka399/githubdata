@@ -1,3 +1,10 @@
 *.csv
+extractKeywords
+TM_WORLD_BORDERS_SIMPL-0.3*.*
+world*.*
+*.avi
+core
+*.txt
+*.jpg
 *.png
 .Rhistory

@@ -1,4 +1,4 @@
-setwd('/home/git/github/')
+setwd('/home/git/githubdata/')
 require('ggplot2')
 require(xts)
 

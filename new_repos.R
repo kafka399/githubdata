@@ -1,4 +1,4 @@
-setwd('/home/git/github/')
+setwd('/home/git/githubdata/')
 require('ggplot2')
 require(xts)
 
@@ -38,10 +38,12 @@ res = rbind(res, data.frame(aggregate(years$count,list(years$hour),median),
 
 colnames(res)=c('hour','median','year')
 
-#####log plot######
+png('new_repos.png',width=550)
+####log plot######
 ggplot(res,aes(hour,log(median)))+
   geom_smooth(aes(group=year,colour=factor(year)),alpha=0.3,size=2)+
   scale_color_brewer(name='Year',palette="Set1")+xlab('Hour')+ylab('Median')
+dev.off()
 
 #####normal plot####
 ggplot(res,aes(hour,median))+
